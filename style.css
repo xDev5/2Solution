@@ -1,6 +1,6 @@
 iframe {
     width: 100%;
-    height: 98vh;
+    height: 100vh;
     margin: 0 auto;
     padding: 0;
     border: 0;
@@ -8,5 +8,6 @@ iframe {
 
 body {
     overflow: hidden;
-    background-color: #c8baa0;
+    padding: 0px;
+    margin: 0px;
 }
